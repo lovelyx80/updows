@@ -1,16 +1,16 @@
 {
-  "latestVersion": "13.6.3",
+  "latestVersion": "13.6.8",
   "minimumVersion": "13.6.0",
 
   "server": "on",
-  "maintenance": true,
+  "maintenance": false,
 
   "update": "on",
   "forceUpdate": false,
 
   "updateUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest",
 
-  "message": "Welcome to Lovely Beats!",
+  "message": "Welcome to Lovely Beats💕!",
 
   "popup": {
     "enabled": true,
