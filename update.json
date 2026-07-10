@@ -5,7 +5,7 @@
   "server": "on",
   "maintenance": false,
 
-  "update": "off",
+  "update": "on",
   "forceUpdate": false,
 
   "updateUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest",
