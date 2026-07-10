@@ -2,10 +2,10 @@
   "latestVersion": "13.6.3",
   "minimumVersion": "13.6.0",
 
-  "server": "on",
+  "server": "off",
   "maintenance": false,
 
-  "update": "on",
+  "update": "off",
   "forceUpdate": false,
 
   "updateUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest",
