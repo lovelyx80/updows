@@ -29,6 +29,6 @@
     "cancelButton": {
       "text": "Maybe Later"
     },
-    "dontShowAgain": true
+    "dontShowAgain": false
   }
 }
