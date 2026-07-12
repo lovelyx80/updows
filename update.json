@@ -2,7 +2,7 @@
   "latestVersion": "13.6.8",
   "minimumVersion": "13.6.0",
 
-  "server": "on",
+  "server": "off",
   "maintenance": false,
 
   "update": "on",
