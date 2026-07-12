@@ -11,6 +11,7 @@
   "updateUrl": "https://github.com/lovelyofficial/Lovely-Beats/releases/latest",
 
   "message": "🎉 Lovely Beats is currently server updated",
+  "maintenance": "currently server under maintenance/nnthanks for support",
 
   "popup": {
     "enabled": true,
