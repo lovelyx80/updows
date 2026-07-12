@@ -3,8 +3,8 @@
   
   "minimumVersion": "13.6.0",
   
-  "server": "on",
-  "maintenance": true,
+  "server": "off",
+  "maintenance": false,
   
   "update": "on",
   "forceUpdate": false,
