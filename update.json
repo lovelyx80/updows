@@ -1,5 +1,5 @@
 {
-  "latestVersion": "13.6.8",
+  "latestVersion": "13.6.9",
   "minimumVersion": "13.6.0",
 
   "server": "on",
@@ -10,7 +10,7 @@
 
   "updateUrl": "https://github.com/lovelyofficial/Lovely-Beats/releases/latest",
 
-  "message": "🎉 Lovely Beats is currently server updated/n/nhi",
+  "message": "🎉 Lovely Beats is currently server updated",
 
   "popup": {
     "enabled": true,
