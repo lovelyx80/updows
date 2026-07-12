@@ -4,7 +4,7 @@
   "minimumVersion": "13.6.0",
   
   "server": "off",
-  "maintenance": false,
+  "maintenance": true,
   
   "update": "on",
   "forceUpdate": false,
