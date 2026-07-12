@@ -1,24 +1,27 @@
 {
   "latestVersion": "13.6.9",
+  
   "minimumVersion": "13.6.0",
-
+  
   "server": "on",
   "maintenance": false,
-
+  
   "update": "on",
   "forceUpdate": false,
-
+  
   "updateUrl": "https://github.com/lovelyofficial/Lovely-Beats/releases/latest",
-
-  "message": "🎉 Lovely Beats is currently server updated",
-  "maintenance": "currently server under maintenance/nnthanks for support",
-
+  
+  "message": "🎉 A new update is available with exciting features!",
+  
+  "maintenanceMessage": "Currently server under maintenance.\\n\\nThanks for your support ❤️",
+  
   "popup": {
     "enabled": true,
-    "version": "13.6.3",
+    "version": "1.0.5",
     "showOnce": true,
+    "dontShowAgain": true,
     "title": "🎵 Welcome to Lovely Beats",
-    "description": "Join our official WhatsApp Channel to receive updates, new features, and announcements. Need help? Contact Support anytime.",
+    "description": "Join our official WhatsApp Channel to receive updates, new features, and announcements.",
     "primaryButton": {
       "text": "📢 Join Channel",
       "url": "https://whatsapp.com/channel/0029VbD3KuJAu3aQHvVQ9A0A"
@@ -29,7 +32,6 @@
     },
     "cancelButton": {
       "text": "Maybe Later"
-    },
-    "dontShowAgain": true
+    }
   }
 }
