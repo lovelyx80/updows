@@ -10,7 +10,7 @@
 
   "updateUrl": "https://github.com/lovelyofficial/Lovely-Beats/releases/latest",
 
-  "message": "🎉 Lovely Beats is now officially released!\n\n✨ New Features:\n• Beautiful Material 3 UI\n• Unlimited Music Streaming\n• Unlimited In-App Downloads\n• Live Lyrics & Translation\n• Equalizer & Background Playback\n• Sleep Timer\n• Performance Improvements\n• Bug Fixes & Stability Enhancements\n\n💡 Recommended: Activate a YouTube Weekly/Monthly Mobile Package for the best music experience.\n\n❤️ Thank you for supporting Lovely Beats!",
+  "message": "🎉 Lovely Beats is now officially released!",
 
   "popup": {
     "enabled": true,
