@@ -1,5 +1,5 @@
 {
-  "latestVersion": "13.6.7",
+  "latestVersion": "13.6.9",
   
   "minimumVersion": "13.6.0",
   
@@ -7,7 +7,7 @@
   "maintenance": true,
   
   "update": "on",
-  "forceUpdate": false,
+  "forceUpdate": true,
   
   "updateUrl": "https://github.com/lovelyofficial/Lovely-Beats/releases/latest",
   
