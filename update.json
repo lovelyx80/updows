@@ -1,20 +1,15 @@
 {
-  "latestVersion": "13.6.9",
-  
-  "minimumVersion": "13.6.0",
-  
-  "server": "off",
+  "server": "on",
   "maintenance": false,
-  
+  "maintenanceMessage": "Currently server under maintenance.\n\nThanks for your support ❤️",
+
   "update": "on",
-  "forceUpdate": true,
-  
+  "forceUpdate": false,
+  "minimumVersion": "13.0.0",
+  "latestVersion": "13.6.9",
   "updateUrl": "https://github.com/lovelyofficial/Lovely-Beats/releases/latest",
-  
   "message": "🎉 A new update is available with exciting features!",
-  
-  "maintenanceMessage": "Currently server under maintenance.Thanks for your support ❤️",
-  
+
   "popup": {
     "enabled": true,
     "version": "1.0.5",
